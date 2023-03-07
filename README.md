@@ -1,4 +1,4 @@
-Data Structures Visualizer (developed in 2021)
+Data Structures Visualizer
 
 This is a web application that helps beginnners visualize the working of a linked list and a binary search tree
 
